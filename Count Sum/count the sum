@@ -1,0 +1,8 @@
+# define a fun with "calculate_sum name.
+def calculate_sum(list):
+# print sum of list.
+    print(sum(list))
+# Assign value to list variable.
+list=[1,2,3,4,5]
+# calling fun.
+calculate_sum(list)
