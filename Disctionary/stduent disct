@@ -1,0 +1,14 @@
+# creat dict with name of student...
+student={"Name" : "Arslan","Age" : 18,"Grade" : "A"}
+print(student)
+
+print("\n*Keys*")
+# print only key
+for key in student.keys():
+ print(key)
+
+print("\n*Values*")
+#print only values
+for value in student.values():
+    print(value)
+
