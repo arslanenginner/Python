@@ -1,4 +1,4 @@
-# efine a function.
+#Define a function.
 def peledrom (input_string):
 # read the word in reverse order
    reserve_word=input_string[::-1]
