@@ -1,0 +1,8 @@
+# define a fun with name find_max.
+def find_max(list):
+# print max numebr in list.
+    print(max(list))
+# Assign arguments in list.
+list=[1,2,3,4,5]
+# callng function.
+find_max(list)
