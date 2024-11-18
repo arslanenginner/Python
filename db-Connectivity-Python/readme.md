@@ -55,5 +55,4 @@ Once the dependencies are installed, run the Python script to start the GUI appl
 
 ```bash
 python3 GUI_database.py
-
-
+```
