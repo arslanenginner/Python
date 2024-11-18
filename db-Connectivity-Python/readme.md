@@ -44,17 +44,16 @@ sudo apt update
 sudo apt install python3 python3-pip
 pip3 install mysql-connector-python tk
 ```
-For Windows: Follow these steps:
-
-Install Python and ensure that pip is installed.
-Run the following commands in the command prompt:
-
+- **For Windows**: Follow these steps:
+  1. Install Python from [Python Downloads](https://www.python.org/downloads/) and ensure that `pip` is installed during the installation.
+  2. Open the command prompt and run the following commands:
 ```bash
 pip install tk mysql-connector-python
 ```
-4. Run the Application
-Once dependencies are installed, run the Python script to start the GUI application:
+### 4. Run the Application
+Once the dependencies are installed, run the Python script to start the GUI application:
+
 ```bash
 python3 GUI_database.py
-```
+
 
